@@ -1,0 +1,66 @@
+!!!
+<style>
+.button {
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 4px;
+    cursor: pointer;
+    
+    border: 2px solid #555555;
+    border-radius: 8px;
+}
+</style>
+
+<div align="center">
+<strong><p>可能用到的各种网站，打不开请尝试使用校园网</p></strong>
+</div>
+<div align="center">
+<button onclick="window.open('https://one.bnu.edu.cn','_self');" class="button">数字京师</button>
+<button onclick="window.open('http://zyfw.bnu.edu.cn/','_self');" class="button">教务系统</button>
+<button onclick="window.open('https://kczx.bnu.edu.cn/','_self');" class="button">课程中心</button>
+<button onclick="window.open('https://www.lib.bnu.edu.cn','_self');" class="button">图书馆</button>
+</div>
+<div align="center">
+<button onclick="window.open('http://software.bnu.edu.cn/','_self');" class="button">正版软件</button>
+<button onclick="window.open('https://pan.bnu.edu.cn/','_self');" class="button">师大云盘</button>
+<button onclick="window.open('https://cen.bnu.edu.cn/','_self');" class="button">CEN平台</button>
+<button onclick="window.open('http://532movie.bnu.edu.cn/','_self');" class="button">532影视</button>
+</div>
+<div align="center">
+<button onclick="window.open('http://bnu.edu.cn/','_self');" class="button">北师官网</button>
+<button onclick="window.open('https://vpn.bnu.edu.cn/','_self');" class="button">内网VPN</button><button onclick="window.open('https://www.bnupsycher.cn/','_self');" class="button">BNU Psycher</button>
+<button onclick="window.open('https://bnucourse.ltd/','_self');" class="button">选课社区</button>
+</div>
+<div align="center">
+<button onclick="window.open('https://www.jiumodiary.com/','_self');" class="button">鸠摩搜书</button>
+<button onclick="window.open('https://zh.zlibrary-jp.se/','_self');" class="button">Zlibrary</button>
+<button onclick="window.open('http://bilibili.com/','_self');" class="button">哔哩哔哩</button>
+<button onclick="window.open('https://rutracker.org/forum/index.php','_self');" class="button">Rutracker</button>
+</div>
+<div align="center">
+<button onclick="window.open('https://sci-hub.wf/','_self');" class="button">Sci-Hub</button>
+<button onclick="window.open('https://aistudio.baidu.com/index','_self');" class="button">百度飞桨</button>
+<button onclick="window.open('http://github.com/','_self');" class="button">GitHub</button>
+<button onclick="window.open('https://www.runoob.com/','_self');" class="button">菜鸟教程</button>
+</div>
+<div align="center">
+<button onclick="window.open('https://chat.openai.com/','_self');" class="button">ChatGPT</button>
+<button onclick="window.open('https://www.deepl.com/translate','_self');" class="button">DeepL翻译</button>
+<button onclick="window.open('https://www.kaggle.com/','_self');" class="button">Kaggle</button>
+<button onclick="window.open('https://weread.qq.com/','_self');" class="button">微信读书</button>
+</div>
+<div align="center">
+心理学相关<br>
+<button onclick="window.open('https://psych.bnu.edu.cn/','_self');" class="button">学部官网</button>
+<button onclick="window.open('https://psybook.bnu.edu.cn/','_self');" class="button">预约平台</button>
+<button onclick="window.open('https://bnupsych.au1.qualtrics.com/','_self');" class="button">Qualtrics</button>
+<button onclick="window.open('https://psych.bnu.edu.cn/szdw/zrjs/index.htm','_self');" class="button">教师信息</button>
+</div>
+!!!
+<br>
+> bnuer站终于在某懒狗购买了稳定长时间服务器以及更新域名服务之后秽土转生！项目借鉴自https://www.bnupsycher.cn/，为减小开销与博客采用了同一网站框架，做了一点个人化的小改动。移除捐助界面，联系站长请电邮sherlockchiang@gmail.com
